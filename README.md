@@ -1,2 +1,2 @@
 # ofxKuGpu
-openFrameworks addon for image computations using GLSL
+openFrameworks addon for image computations using GLSL.
